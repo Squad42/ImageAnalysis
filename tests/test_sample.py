@@ -1,5 +1,5 @@
 # SAMPLE IMPORTs TEST
-from userManagement.server import *
+from imageAnalysis.server import *
 
 
 def func(x):
